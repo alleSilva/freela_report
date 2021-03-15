@@ -1,7 +1,5 @@
 # Desafio 01 - Gerando relatórios
 
-**TODO: Add description**
-
 ## Sobre o desafio
 
 Nesse desafio, você deverá gerar um relatório a partir de um arquivo .csv.
